@@ -4,7 +4,7 @@
             "datetime": 1681592400,
             "filename": "lineage-20.0-20230416-gapps-spes.zip",
             "id": "5f660c94c2c0cec38c9db178ca33cc59398b0fc4",
-            "romtype": "gapps",
+            "romtype": "vanilla",
             "size": 1187119772,
             "url": "https://sourceforge.net/projects/lineageos-spes/files/Test-Builds/lineage-20.0-20230416-gapps-spes.zip/download",
             "version": "20.0"
