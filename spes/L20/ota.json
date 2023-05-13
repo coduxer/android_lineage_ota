@@ -1,6 +1,15 @@
 {
     "response": [
         {
+            "datetime": 1683925200,
+            "filename": "lineage-20.0-20230513-GAPPS-spes.zip",
+            "id": "49c836c7f69a0008e13c7417235124925f5b7120",
+            "romtype": "GAPPS",
+            "size": 1182728559,
+            "url": "https://sourceforge.net/projects/lineageos-spes/files/Roms/lineage-20.0-20230513-GAPPS-spes.zip/download",
+            "version": "20.0"
+        },
+        {
             "datetime": 1683579600,
             "filename": "lineage-20.0-20230509-GAPPS-spes.zip",
             "id": "bcf3021cc6d0c782e76d34b5c72d101566812d3b",
